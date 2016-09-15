@@ -1,0 +1,13 @@
+{
+    "android": {
+        "iap": {
+            "items": {
+                "remove_ads": {
+                    "type": "non_consumable", 
+                    "id": "com.dimstudio.workingpetads"
+                }          
+            }, 
+            "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqkNjSoj15LIu7kAu0kq2ZwBC+TrC9/9lszNsXG8DWaWZzKmW1ISPdIEOFKtiyVAwF5O+LsKEA6vhQIXWE2xhVL8MhRa9/ENh5awljddb6bB/5kl7QIYV4uAr8lQGgB634yuz9ahgmz0GR0FEpHnYCNth8avEAOVT4i2EsgjycVjAzEdFFXR+AIK1WFXAHE/3ymawg6VUE0Ysa9HZoZpoQXF886yms/rXgPlV+sdjFvmy5z5HBumdXkKxBDQ9fANh4WbZAaqMLxDDoSdVZAOogwGOnBJvxSmeWP+jZUqHJuA8Yk9fWVS+iH3r+l16TDvuTXYRGzpXjJRJ6c3JeHu2TQIDAQAB"
+        }
+    }
+}
